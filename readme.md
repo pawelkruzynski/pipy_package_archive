@@ -1,4 +1,5 @@
-#Pypi package archive
+
+# Pypi package archive
 
 The application downloads information about packages from 
 https://pypi.org/rss/packages.xml once a day.
@@ -18,7 +19,8 @@ collected in es. You can find following package info:
 
 You can also filter results.
 
-##running project:
+## Running project:
+
 `docker-compose up --build -d`
 
 After start the application will download first batch of 
@@ -26,7 +28,7 @@ pypi packages and will continue doing it every 24 hours.
 If you can't see any results, wait upto 1 minute and the 
 celery task will fetch data. 
 
-##pagination
+## Pagination
 
 The pagination can be set in environment variable. To 
 change it, modify  `FRONT_PAGINATION` variable in 
@@ -36,10 +38,11 @@ containers:
 - optimo-celery
 - optimo-celery-beat
 
-##admin panel
+## Admin panel
+
 The admin panel is not available in the application.
 
-## rebuilding es index
+## Rebuilding es index
 To rebuild index in case of elasticsearch failure, run 
 following command inside optimo-web container:
 
@@ -60,8 +63,8 @@ use docker-compose on your OS to run.
 
 `http://0.0.0.0:8080/api/v1/package/`
 
-to search through the API, add parameters corresponding 
-to the columns from the browser view. Optionally or `page` 
+To search through the API, add parameters corresponding 
+to the columns from the browser view. Optionally add `page` 
 attribute to paginate. ie:
 
 `http://0.0.0.0:8080/api/v1/package/?title__contains=djang&page=1`
