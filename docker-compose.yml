@@ -1,0 +1,60 @@
+version: '3.7'
+services:
+  web:
+    build: .
+    container_name: optimo-web
+    restart: always
+    command: bash -c "pip install -r requirements.txt && python manage.py migrate && python manage.py runserver 0.0.0.0:80"
+    depends_on:
+      - postgres
+      - redis
+    volumes:
+      - .:/src
+    env_file:
+      - environment
+    ports:
+      - 8080:80
+
+  postgres:
+    image: postgres:11.2-alpine
+    container_name: optimo-postgres
+    restart: always
+    working_dir: /src
+    env_file:
+      - environment
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.8.0
+    container_name: optimo-elasticsearch
+    restart: always
+    ports:
+      - 9200:9200
+      - 9300:9300
+    environment:
+       - discovery.type=single-node
+
+  redis:
+    image: redis:alpine
+    container_name: optimo-redis
+
+  celery:
+    build: .
+    container_name: optimo-celery
+    command: celery -A optimo worker -l info
+    volumes:
+      - .:/src
+    env_file:
+      - environment
+    depends_on:
+      - redis
+
+  celery-beat:
+    build: .
+    container_name: optimo-celery-beat
+    command: celery -A optimo beat -l info
+    volumes:
+      - .:/src
+    env_file:
+      - environment
+    depends_on:
+      - redis

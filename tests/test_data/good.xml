@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>PyPI newest packages</title>
+    <link>https://pypi.org/</link>
+    <description>Newest packages registered at the Python Package Index</description>
+    <language>en</language>
+    <item>
+      <title>xespiano added to PyPI</title>
+      <link>https://pypi.org/project/xespiano/</link>
+      <guid>https://pypi.org/project/xespiano/</guid>
+      <description>library for makeblock fingertip piano</description>
+      <author>flashindream@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 08:46:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ltapysg added to PyPI</title>
+      <link>https://pypi.org/project/ltapysg/</link>
+      <guid>https://pypi.org/project/ltapysg/</guid>
+      <description>Asynchronous python library to access LTA&#39;s Datamall, primarily designed for Home Asssitant.</description>
+      <author>codestia@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 08:37:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>pymlmodels added to PyPI</title>
+      <link>https://pypi.org/project/pymlmodels/</link>
+      <guid>https://pypi.org/project/pymlmodels/</guid>
+      <description>Collection of easy to use Machine Learning Models.</description>
+      <author>charlie2meat@yahoo.com</author>
+      <pubDate>Mon, 06 Jul 2020 08:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>macross-serial added to PyPI</title>
+      <link>https://pypi.org/project/macross-serial/</link>
+      <guid>https://pypi.org/project/macross-serial/</guid>
+      <description></description>
+      <author>40and44sis@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 08:18:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ser2sock added to PyPI</title>
+      <link>https://pypi.org/project/ser2sock/</link>
+      <guid>https://pypi.org/project/ser2sock/</guid>
+      <description>serial to tcp bridge</description>
+      <author>coutinhotiago@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 08:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>MonitorYourLab added to PyPI</title>
+      <link>https://pypi.org/project/monitoryourlab/</link>
+      <guid>https://pypi.org/project/monitoryourlab/</guid>
+      <description>Monitor your lab, in real time</description>
+      <author>e0134117@u.nus.edu</author>
+      <pubDate>Mon, 06 Jul 2020 08:13:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>pytest-helm-charts added to PyPI</title>
+      <link>https://pypi.org/project/pytest-helm-charts/</link>
+      <guid>https://pypi.org/project/pytest-helm-charts/</guid>
+      <description>A plugin to provide different types and configs of Kubernetes clusters that can be used for testing.</description>
+      <author>lukasz@giantswarm.io</author>
+      <pubDate>Mon, 06 Jul 2020 08:13:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>dp-vng-protobuf added to PyPI</title>
+      <link>https://pypi.org/project/dp-vng-protobuf/</link>
+      <guid>https://pypi.org/project/dp-vng-protobuf/</guid>
+      <description>Protobuf producer and consumer</description>
+      <author>jasonchauvs@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 08:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>setux added to PyPI</title>
+      <link>https://pypi.org/project/setux/</link>
+      <guid>https://pypi.org/project/setux/</guid>
+      <description>System deployment</description>
+      <author>louis@riviere.xyz</author>
+      <pubDate>Mon, 06 Jul 2020 07:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>osearch added to PyPI</title>
+      <link>https://pypi.org/project/osearch/</link>
+      <guid>https://pypi.org/project/osearch/</guid>
+      <description>Search nested lists and dicts</description>
+      <author>pydev@offline.dk</author>
+      <pubDate>Mon, 06 Jul 2020 07:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>libvsgpt-python added to PyPI</title>
+      <link>https://pypi.org/project/libvsgpt-python/</link>
+      <guid>https://pypi.org/project/libvsgpt-python/</guid>
+      <description>Python bindings module for libvsgpt</description>
+      <author>joachim.metz@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 07:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebDeploy added to PyPI</title>
+      <link>https://pypi.org/project/webdeploy/</link>
+      <guid>https://pypi.org/project/webdeploy/</guid>
+      <description>WebDeploy is a python package for deploying Flask/Django applications at ease.</description>
+      <author>idaljeetsingh@outlook.com</author>
+      <pubDate>Mon, 06 Jul 2020 07:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>dsnd-anand-distributions added to PyPI</title>
+      <link>https://pypi.org/project/dsnd-anand-distributions/</link>
+      <guid>https://pypi.org/project/dsnd-anand-distributions/</guid>
+      <description>Gaussian and Binomial distributions</description>
+
+      <pubDate>Mon, 06 Jul 2020 07:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>htrtest added to PyPI</title>
+      <link>https://pypi.org/project/htrtest/</link>
+      <guid>https://pypi.org/project/htrtest/</guid>
+      <description>Bangladeshi Facebook Account Cloner</description>
+      <author>unknown@email.com</author>
+      <pubDate>Mon, 06 Jul 2020 06:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>clumpy added to PyPI</title>
+      <link>https://pypi.org/project/clumpy/</link>
+      <guid>https://pypi.org/project/clumpy/</guid>
+      <description>Comprehensive Land Use Models in python</description>
+      <author>francois-remi.mazy@inria.fr</author>
+      <pubDate>Mon, 06 Jul 2020 06:56:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>pytorchts added to PyPI</title>
+      <link>https://pypi.org/project/pytorchts/</link>
+      <guid>https://pypi.org/project/pytorchts/</guid>
+      <description>PyTorch Probabilistic Time Series Modeling framework</description>
+      <author>kashif.rasul@zalando.de</author>
+      <pubDate>Mon, 06 Jul 2020 06:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>pyradamsa added to PyPI</title>
+      <link>https://pypi.org/project/pyradamsa/</link>
+      <guid>https://pypi.org/project/pyradamsa/</guid>
+      <description>Python bindings for radamsa fuzzing library.</description>
+      <author>timofte.daniel@tuta.io</author>
+      <pubDate>Mon, 06 Jul 2020 06:34:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>qbc-emoji added to PyPI</title>
+      <link>https://pypi.org/project/qbc-emoji/</link>
+      <guid>https://pypi.org/project/qbc-emoji/</guid>
+      <description>Generateing image using emoji.</description>
+      <author>charlesmeng@shinelab.cn</author>
+      <pubDate>Mon, 06 Jul 2020 06:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>odoo13-addon-crm-industry added to PyPI</title>
+      <link>https://pypi.org/project/odoo13-addon-crm-industry/</link>
+      <guid>https://pypi.org/project/odoo13-addon-crm-industry/</guid>
+      <description>Link leads/opportunities to industries</description>
+      <author>support@odoo-community.org</author>
+      <pubDate>Mon, 06 Jul 2020 05:47:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>skyportal-spatial added to PyPI</title>
+      <link>https://pypi.org/project/skyportal-spatial/</link>
+      <guid>https://pypi.org/project/skyportal-spatial/</guid>
+      <description></description>
+
+      <pubDate>Mon, 06 Jul 2020 05:34:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>tortoise-m added to PyPI</title>
+      <link>https://pypi.org/project/tortoise-m/</link>
+      <guid>https://pypi.org/project/tortoise-m/</guid>
+      <description></description>
+
+      <pubDate>Mon, 06 Jul 2020 05:32:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>qbc-face-ps added to PyPI</title>
+      <link>https://pypi.org/project/qbc-face-ps/</link>
+      <guid>https://pypi.org/project/qbc-face-ps/</guid>
+      <description>Face Control.</description>
+      <author>charlesmeng@shinelab.cn</author>
+      <pubDate>Mon, 06 Jul 2020 05:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>so-lazy added to PyPI</title>
+      <link>https://pypi.org/project/so-lazy/</link>
+      <guid>https://pypi.org/project/so-lazy/</guid>
+      <description>Lazy loading Python package</description>
+
+      <pubDate>Mon, 06 Jul 2020 05:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>plyvel-win32 added to PyPI</title>
+      <link>https://pypi.org/project/plyvel-win32/</link>
+      <guid>https://pypi.org/project/plyvel-win32/</guid>
+      <description>Plyvel, a fast and feature-rich Python interface to LevelDB</description>
+      <author>austecon0922@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 05:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>torchero added to PyPI</title>
+      <link>https://pypi.org/project/torchero/</link>
+      <guid>https://pypi.org/project/torchero/</guid>
+      <description>A pluggable &amp; extensible trainer for pytorch</description>
+      <author>juancruzsosa.92@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 05:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>entab-py added to PyPI</title>
+      <link>https://pypi.org/project/entab-py/</link>
+      <guid>https://pypi.org/project/entab-py/</guid>
+      <description></description>
+      <author>rbovee@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 04:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>supercel added to PyPI</title>
+      <link>https://pypi.org/project/supercel/</link>
+      <guid>https://pypi.org/project/supercel/</guid>
+      <description>Python library for working with supercellAPI</description>
+
+      <pubDate>Mon, 06 Jul 2020 04:40:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>modbus-config-tools added to PyPI</title>
+      <link>https://pypi.org/project/modbus-config-tools/</link>
+      <guid>https://pypi.org/project/modbus-config-tools/</guid>
+      <description>modbus configure tools</description>
+
+      <pubDate>Mon, 06 Jul 2020 04:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>thefirstmodule added to PyPI</title>
+      <link>https://pypi.org/project/thefirstmodule/</link>
+      <guid>https://pypi.org/project/thefirstmodule/</guid>
+      <description>这是第一个对外发布的模块，测试哦</description>
+      <author>songbaobao@163.com</author>
+      <pubDate>Mon, 06 Jul 2020 04:27:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>grvlms-hubspot added to PyPI</title>
+      <link>https://pypi.org/project/grvlms-hubspot/</link>
+      <guid>https://pypi.org/project/grvlms-hubspot/</guid>
+      <description>hubspot plugin for Grvlms</description>
+
+      <pubDate>Mon, 06 Jul 2020 04:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>nlogger added to PyPI</title>
+      <link>https://pypi.org/project/nlogger/</link>
+      <guid>https://pypi.org/project/nlogger/</guid>
+      <description>Package to use NLogger web service to send notification and logs to mobile devices.</description>
+      <author>bala21karthick@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 04:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>talk2stat added to PyPI</title>
+      <link>https://pypi.org/project/talk2stat/</link>
+      <guid>https://pypi.org/project/talk2stat/</guid>
+      <description>Open a bidirectional pipe to R, julia, or matlab (etc.) and communicate with it via a socket.</description>
+      <author>haim.bar@uconn.edu</author>
+      <pubDate>Mon, 06 Jul 2020 03:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>jgf added to PyPI</title>
+      <link>https://pypi.org/project/jgf/</link>
+      <guid>https://pypi.org/project/jgf/</guid>
+      <description>Python library to load JGF files</description>
+      <author>filipi@iu.edu</author>
+      <pubDate>Mon, 06 Jul 2020 03:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>fastapi-healthcheck added to PyPI</title>
+      <link>https://pypi.org/project/fastapi-healthcheck/</link>
+      <guid>https://pypi.org/project/fastapi-healthcheck/</guid>
+      <description>An extensible healthcheck endpoint built to integrate with FastAAPI</description>
+      <author>jeffsiver@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 02:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>VTIL added to PyPI</title>
+      <link>https://pypi.org/project/vtil/</link>
+      <guid>https://pypi.org/project/vtil/</guid>
+      <description>Virtual-machine Translation Intermediate Language</description>
+
+      <pubDate>Mon, 06 Jul 2020 02:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>musicntwrk added to PyPI</title>
+      <link>https://pypi.org/project/musicntwrk/</link>
+      <guid>https://pypi.org/project/musicntwrk/</guid>
+      <description>music as data, data as music</description>
+      <author>mbn@unt.edu</author>
+      <pubDate>Mon, 06 Jul 2020 02:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>lvboqing added to PyPI</title>
+      <link>https://pypi.org/project/lvboqing/</link>
+      <guid>https://pypi.org/project/lvboqing/</guid>
+      <description></description>
+
+      <pubDate>Mon, 06 Jul 2020 01:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>kano-community-sdk added to PyPI</title>
+      <link>https://pypi.org/project/kano-community-sdk/</link>
+      <guid>https://pypi.org/project/kano-community-sdk/</guid>
+      <description>kano-community-sdk for pypi</description>
+      <author>wuwenjie718@gmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 01:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>vsco-dl added to PyPI</title>
+      <link>https://pypi.org/project/vsco-dl/</link>
+      <guid>https://pypi.org/project/vsco-dl/</guid>
+      <description>Tool for downloading VSCO user images and journals</description>
+      <author>tecome@protonmail.com</author>
+      <pubDate>Mon, 06 Jul 2020 01:17:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

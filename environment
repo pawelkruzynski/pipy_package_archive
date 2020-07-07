@@ -1,0 +1,8 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+POSTGRES_DB=postgres
+SECRET_KEY=@^5(cb8plbygd_$+ymf^c^e2c8**+#xjr2r0_)wt6zh0dk@8&b
+DEBUG=True
+FRONT_PAGINATION=10
+API_PAGINATION=10
+DJANGO_ALLOWED_HOSTS=localhost 127.0.0.1 0.0.0.0 [::1]
